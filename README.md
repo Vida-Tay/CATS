@@ -1,2 +1,2 @@
-# CATS
-CATS AI features
+# CTAS AI integration
+Candidate summary
